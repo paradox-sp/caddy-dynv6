@@ -12,7 +12,7 @@ Builds are available at the following Docker repositories:
 
 Few things to note: 
 
-1. You should add DYNV6_API_TOKEN as environment variables or can directly replace with the actual token to your `docker run` command. Example:
+You should add DYNV6_API_TOKEN as environment variables or can directly replace with the actual token to your `docker run` command. Example:
 
       ```
             tls {
