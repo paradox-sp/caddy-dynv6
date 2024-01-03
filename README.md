@@ -1,6 +1,6 @@
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/yourusername/caddy-dynv6/Docker%20Build%20and%20Publish?label=build&logo=github)](https://github.com/yourusername/caddy-dynv6/actions)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/paradox-sp/caddy-dynv6/Docker%20Build%20and%20Publish?label=build&logo=github)](https://github.com/paradox-sp/caddy-dynv6/actions)
 [![Docker Pulls](https://img.shields.io/docker/pulls/paradoxsp/caddy-dynv6?logo=docker)](https://hub.docker.com/r/paradoxsp/caddy-dynv6)
-[![GitHub License](https://img.shields.io/github/license/yourusername/caddy-dynv6)](https://github.com/yourusername/caddy-dynv6/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/paradox-sp/caddy-dynv6)](https://github.com/paradox-sp/caddy-dynv6/blob/main/LICENSE)
 
 # caddy-dynv6
 
@@ -19,6 +19,3 @@ Few things to note:
             dns dynv6 {env.DYNV6_API_TOKEN}
             }
       ```
-
-[dockerhub-image]: https://img.shields.io/docker/pulls/paradoxsp/caddy-dynv6?label=DockerHub%20Pulls&style=for-the-badge
-[dockerhub-url]: https://hub.docker.com/r/paradoxsp/caddy-dynv6
