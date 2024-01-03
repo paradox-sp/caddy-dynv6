@@ -58,7 +58,7 @@ jobs:
         with:
           provenance: false
           context: .
-          platforms: linux/arm64
+          platforms: linux/amd64, linux/arm64, linux/arm/v8, linux/arm/v7
           push: ${{ github.event_name != 'pull_request' }}
           tags: |
             docker.io/${{ env.IMAGE_NAME }}:${{ steps.get-caddy-version.outputs.version }}
