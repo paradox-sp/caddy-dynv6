@@ -1,4 +1,4 @@
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/paradox-sp/caddy-dynv6/Docker%20Build%20and%20Publish?label=build&logo=github)](https://github.com/paradox-sp/caddy-dynv6/actions)
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/paradoxsp/caddy-dynv6?logo=docker)](https://hub.docker.com/r/paradoxsp/caddy-dynv6)
 [![GitHub License](https://img.shields.io/github/license/paradox-sp/caddy-dynv6)](https://github.com/paradox-sp/caddy-dynv6/blob/main/LICENSE)
 
